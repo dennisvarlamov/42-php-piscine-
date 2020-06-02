@@ -1,0 +1,98 @@
+body {
+  color: black;
+  background-color: white;
+}
+h1 {
+  text-align: center;
+}
+.m {
+  text-align: right;
+  font-weight: normal;
+  font-size: 15px;
+  margin: -3px 4px -20px;
+}
+th {
+  background-color: rgb(187, 206, 187);
+  width: 5%;
+}
+.num {
+  text-align: left;
+  font-weight: normal;
+  font-size: 15px;
+  margin: -20px 1px 4px;
+}
+.chalcogen {
+  background-color: #a0ffa0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.inertgase {
+  background-color: #c0ffff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.alkali {
+  background-color: #FF6666;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.earthmetal {
+  background-color: #FFDEAD;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.metalloid {
+  background-color: #cccc99;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  }   
+.posttrans {
+  background-color: #cccccc;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.halogen {
+  background-color: #ffff99;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.transmetal {
+  background-color: #ffc0c0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.lanthanoid {
+  background-color: #FFBFFF;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.actinoid {
+  background-color: #ef99cc;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.special {
+  background-color: rgb(187, 206, 187);
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+}
+.name {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.item {
+  font-weight: bold;
+  margin: -4px;
+}
